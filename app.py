@@ -11,7 +11,7 @@ card_sets = {
 
 st.set_page_config(page_title="Story Engine", page_icon="", layout='wide')
 st.title('Story Engine Generator')
-st.markdown('Use this to convert a simple csv file to the format needed for the Story Engine Web app')
+st.markdown('A basic digital version of the story engine card deck')
 
 
 col1, col2 = st.columns([1,1])

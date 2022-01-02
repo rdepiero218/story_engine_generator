@@ -1,32 +1,32 @@
 ---------------
 Card Stack 1
 ---------------
-Your aspect: Poorly Funded
-Your agent: Dealmaker
-Your engine: Wants to blow the whistle on/with
-Your anchor: Key Shipping Port
-Your conflict: But it will destroy their belief in their own p...
+Your aspect: Refurbished
+Your agent: Graffiti artist
+Your engine: Wants to perform an assassination of/with
+Your anchor: An energy shield
+Your conflict: But it will make their timeline dangerously uns...
 ---------------
 Card Stack 2
 ---------------
-Your aspect: Tarnished
-Your agent: Mayor
-Your engine: Wants to stop a destructive agenda with
-Your anchor: A terrible secret
-Your conflict: But the opposing party will come into power
+Your aspect: Reckless
+Your agent: Pyrokinetic
+Your engine: Wants to perform an assassination of/with
+Your anchor: A hidden compartment
+Your conflict: But it will make their timeline dangerously uns...
 ---------------
 Card Stack 3
 ---------------
-Your aspect: Hired
-Your agent: President
-Your engine: Wants to stop a destructive agenda with
-Your anchor: Key Shipping Port
-Your conflict: But the system will treat them unjustly
+Your aspect: Mobile
+Your agent: Cadet
+Your engine: Wants to create a distraction with
+Your anchor: A drone
+Your conflict: But it will cost them their last connection to ...
 ---------------
 Card Stack 4
 ---------------
-Your aspect: Government-Funded
-Your agent: Black Ops Agent
-Your engine: Wants to pass an bill on/with
-Your anchor: A rival nation
-Your conflict: But the system will treat them unjustly
+Your aspect: Uncharted
+Your agent: Gamer
+Your engine: Wants to plant a bomb in/on
+Your anchor: A time machine
+Your conflict: But it will set a mass extermination in motion
