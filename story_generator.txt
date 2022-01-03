@@ -1,24 +1,63 @@
 ---------------
 Card Stack 1
 ---------------
-Your aspect: Shambling
-Your agent: Hillbilly
-Your engine: Wants to escape the trap of
-Your anchor: A graveyard
-Your conflict: But their darkest desire will be revealed
+Your region: City
+Your landmark: Museum
+Your namesake: undaunted
+Your attribute: known for precious herb
+Your origin: created by the meeting of two cultures
+Your advent: a leader's sudden death is creating a power vaccuum: to be filled by heirs, council members, or a vote
 ---------------
 Card Stack 2
 ---------------
-Your aspect: Dusty
-Your agent: Revenant
-Your engine:  Wants to escape their vision of being killed b...
-Your anchor: A disguise
-Your conflict: But they will be blamed for something they did ...
+Your region: Jungle
+Your landmark: Beach
+Your namesake: of smoke
+Your attribute: known for tunnel system
+Your origin: made famous by notorious bet
+Your advent: the dominant cultural group is rewriting history: to cover up a recent scandal, past wrong, or ongoing crime
 ---------------
 Card Stack 3
 ---------------
-Your aspect: Hexed
-Your agent: Cult leader
-Your engine: Wants to escape a trauma through/involving
-Your anchor: A funhouse
-Your conflict: But they will not be able to confess their guil...
+Your region: Road
+Your landmark: Tower
+Your namesake: where no bird sings
+Your attribute: popular holiday spot
+Your origin: shaped by flood(s)
+Your advent: there is a rush to discover a mythical burial site: for religious reasons, grave robbing, or bragging rights
+---------------
+Card Stack 4
+---------------
+Your region: Scree
+Your landmark: Trail
+Your namesake: of shade
+Your attribute: known for walking trails
+Your origin: created to fulfil promise
+Your advent: recent construction has unearthed a secret: a body, vault, or tunnel
+---------------
+Card Stack 5
+---------------
+Your region: Plain(s)
+Your landmark: Creek
+Your namesake: where nothing grows
+Your attribute: knonw for confectionary
+Your origin: site of infamous heist
+Your advent: famine has struck and it's only getting worse: due to price gouging, panic buying, or food riots
+---------------
+Card Stack 6
+---------------
+Your region: Canyon(s)
+Your landmark: Caldera
+Your namesake: that waits
+Your attribute: elaborate etiquette system
+Your origin: former home of a vanished people
+Your advent: recent construction has unearthed a secret: a body, vault, or tunnel
+---------------
+Card Stack 7
+---------------
+Your region: Jungle
+Your landmark: Trail
+Your namesake: of youth
+Your attribute: polluted
+Your origin: homeland of people-in-exile
+Your advent: the sighting of a rare creature is making headlines: it's believed to be magical, mythical, or extinct

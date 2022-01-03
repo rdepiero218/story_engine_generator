@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-
+pd.set_option('max_colwidth', 200)
 
 def create_card_database(card_set_name, engine_type):
     ### create dict of cardtypes for given cardset
