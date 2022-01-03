@@ -7,7 +7,7 @@ def create_card_database(card_set_name, engine_type):
     ### create dict of cardtypes for given cardset
     df = pd.read_csv(f'./data/{card_set_name}.csv')
     if engine_type =='world':
-        df = df[['region','landmark','origin', 'namesake', 'attribute', 'advent']]
+        df = df[['region','landmark','namesake', 'attribute', 'origin','advent']]
     else:
         df = df[['aspect','agent','engine', 'anchor', 'conflict']]
         
