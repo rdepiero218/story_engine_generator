@@ -1,4 +1,4 @@
-# story_engine_generator
+# Story Engine Generator
 
 This app is a digital version of [The Story Engine Deck](https://storyenginedeck.myshopify.com)
 
