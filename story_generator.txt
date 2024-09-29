@@ -1,63 +1,24 @@
 ---------------
 Card Stack 1
 ---------------
-Your region: City
-Your landmark: Museum
-Your namesake: undaunted
-Your attribute: known for precious herb
-Your origin: created by the meeting of two cultures
-Your advent: a leader's sudden death is creating a power vaccuum: to be filled by heirs, council members, or a vote
+Your aspect: Unexplored
+Your agent: Taxidermist
+Your engine: Wants to sacrifice
+Your anchor: An asylum
+Your conflict: But it will lead their enemies straight to them
 ---------------
 Card Stack 2
 ---------------
-Your region: Jungle
-Your landmark: Beach
-Your namesake: of smoke
-Your attribute: known for tunnel system
-Your origin: made famous by notorious bet
-Your advent: the dominant cultural group is rewriting history: to cover up a recent scandal, past wrong, or ongoing crime
+Your aspect: Subterranean
+Your agent: Cannibal
+Your engine: Wants to set an elaborate trap for/with
+Your anchor: A backwood
+Your conflict: But a killer will escape
 ---------------
 Card Stack 3
 ---------------
-Your region: Road
-Your landmark: Tower
-Your namesake: where no bird sings
-Your attribute: popular holiday spot
-Your origin: shaped by flood(s)
-Your advent: there is a rush to discover a mythical burial site: for religious reasons, grave robbing, or bragging rights
----------------
-Card Stack 4
----------------
-Your region: Scree
-Your landmark: Trail
-Your namesake: of shade
-Your attribute: known for walking trails
-Your origin: created to fulfil promise
-Your advent: recent construction has unearthed a secret: a body, vault, or tunnel
----------------
-Card Stack 5
----------------
-Your region: Plain(s)
-Your landmark: Creek
-Your namesake: where nothing grows
-Your attribute: knonw for confectionary
-Your origin: site of infamous heist
-Your advent: famine has struck and it's only getting worse: due to price gouging, panic buying, or food riots
----------------
-Card Stack 6
----------------
-Your region: Canyon(s)
-Your landmark: Caldera
-Your namesake: that waits
-Your attribute: elaborate etiquette system
-Your origin: former home of a vanished people
-Your advent: recent construction has unearthed a secret: a body, vault, or tunnel
----------------
-Card Stack 7
----------------
-Your region: Jungle
-Your landmark: Trail
-Your namesake: of youth
-Your attribute: polluted
-Your origin: homeland of people-in-exile
-Your advent: the sighting of a rare creature is making headlines: it's believed to be magical, mythical, or extinct
+Your aspect: Violent
+Your agent: Vampire
+Your engine: Wants to escape a trauma through/involving
+Your anchor: A field
+Your conflict: But their family will never look at them the same again
