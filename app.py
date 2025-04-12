@@ -2,6 +2,7 @@ import streamlit as st
 
 import story_engine as se
 
+
 ### defines card set names for csv files
 card_sets = {
     'Horror' : 'horror_cards',
@@ -11,9 +12,14 @@ card_sets = {
 }
 
 st.set_page_config(page_title="Story Engine", page_icon="", layout='wide')
-st.title('Story Engine Generator')
-st.markdown('A super basic digital version of the story engine card deck.')
 
+st.title('Story Engine Generator')
+
+st.markdown('A super basic digital version of the story engine card deck. This randomly generates options you would find on cards. With a physical deck, cards are layered on top of each other to create a prompt. The options in each genre are a mix of ones from standards cards and custom ones created by others.')
+
+st.link_button('Visit storyenginedeck.com', 'https://storyenginedeck.com/')
+
+st.markdown('Choose your genre and how many stacks you would like.')
 
 col1, col2 = st.columns([1,1])
 
@@ -44,6 +50,7 @@ if st.button('Generate!'):
         btn = st.download_button(
                 label='Download Output as Text File',
                 data=file,
+                icon='💾',
                 file_name='story_generator',
                 mime='text/'
             )

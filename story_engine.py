@@ -13,6 +13,7 @@ def create_card_database(card_set_name, engine_type):
         
     card_set = {}
     card_types = df.columns.to_list()
+    
     for card_type in card_types:
         card_set[card_type] = df[card_type].dropna(how = 'any')
     return card_set
